@@ -1,7 +1,0 @@
-C:\Users\david\OneDrive\Documents\Visual Studio 2010\Projects\FinalProjectDavid\FinalProjectDavid\bin\Release\FinalProjectDavid.exe
-C:\Users\david\OneDrive\Documents\Visual Studio 2010\Projects\FinalProjectDavid\FinalProjectDavid\bin\Release\FinalProjectDavid.pdb
-C:\Users\david\OneDrive\Documents\Visual Studio 2010\Projects\FinalProjectDavid\FinalProjectDavid\obj\x86\Release\FinalProjectDavid.Form1.resources
-C:\Users\david\OneDrive\Documents\Visual Studio 2010\Projects\FinalProjectDavid\FinalProjectDavid\obj\x86\Release\FinalProjectDavid.Properties.Resources.resources
-C:\Users\david\OneDrive\Documents\Visual Studio 2010\Projects\FinalProjectDavid\FinalProjectDavid\obj\x86\Release\FinalProjectDavid.csproj.GenerateResource.Cache
-C:\Users\david\OneDrive\Documents\Visual Studio 2010\Projects\FinalProjectDavid\FinalProjectDavid\obj\x86\Release\FinalProjectDavid.exe
-C:\Users\david\OneDrive\Documents\Visual Studio 2010\Projects\FinalProjectDavid\FinalProjectDavid\obj\x86\Release\FinalProjectDavid.pdb
