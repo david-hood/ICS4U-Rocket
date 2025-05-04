@@ -9,3 +9,7 @@ It simulates basic rocket behavior using C#. The interface is built using WinFor
 - **Created:** 2022
 - **Language:** C#
 - **Tools:** Visual Studio, WinForms
+
+![Building Interface](./screenshots/build-mode.png)
+![Launch In Progress](./screenshots/launching.png)
+![Moon Landing](./screenshots/moon-landing.png)
