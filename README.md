@@ -1,14 +1,9 @@
-# ICS4U-Rocket
+# Rocket Flight Simulator
 
-This is a Windows Forms application I built as my final project for ICS4U (Grade 12 Computer Science).
+This is a WinForms application that simulates basic rocket behavior using C#. I used Visual Studio to build the interface and coded custom logic for flight on Earth and the Moon, landings, and rocket-specific characteristics like thrust-to-weight ratio, which can be customized by the user through the selection of parts for the vehicle.
 
-It simulates basic rocket behavior using C#. The interface is built using WinForms and includes custom logic for atmospheric flight, on-orbit maneuvering, and docking through simple keyboard controls.
-
-## Project Info
-
-- **Created:** 2022
-- **Language:** C#
-- **Tools:** Visual Studio, WinForms
+## How to Run
+I've published the program's executable under the releases tab.
 
 ## Screenshots
 
